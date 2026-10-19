@@ -1,0 +1,8 @@
+# Environment
+.env
+.env.*
+
+# Logs & Runtime
+node_modules/
+*.log
+.DS_Store
